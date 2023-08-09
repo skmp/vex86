@@ -4,6 +4,10 @@
         "string_view": "cpp",
         "*.inc": "cpp",
         "array": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
     }
 }
